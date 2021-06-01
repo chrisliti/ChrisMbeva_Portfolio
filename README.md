@@ -1,7 +1,7 @@
 # ChrisMbeva_Portfolio
 My Data Science Portfolio
 
-# Project 1: Natural language Processing - WordCloud visualization and sentiment analysis of tweets.
+# [Project 1: Natural language Processing - WordCloud visualization and sentiment analysis of tweets.](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
 
 * Takes input of key words for subject of interest.
 * Pulls most recent tweets (500)from twitter API.
