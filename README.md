@@ -12,6 +12,7 @@ My Data Science Portfolio
 
 - **Programming Language** : R
 - **Data Science Task** : Natural Language Processing (NLP)
+- **Code Link** : [jupyter notebook](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
 
 ## Sentiment bar graph for BBI tweets
 ![](images2/bbi%20sentiment%20bar%20graph.png)
