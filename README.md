@@ -13,7 +13,10 @@ My Data Science Portfolio
 - **Programming Language** : R
 - **Data Science Task** : Natural Language Processing (NLP)
 
+## Sentiment bar graph of BBI tweets
 ![](https://github.com/chrisliti/ChrisMbeva_Portfolio/blob/main/images2/bbi%20sentiment%20bar%20graph.png)
+
+## Wordcloud of BBI tweets
 ![](https://github.com/chrisliti/ChrisMbeva_Portfolio/blob/main/images2/bbi%20word%20cloud%202.png)
 
 
