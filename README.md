@@ -16,10 +16,10 @@ My Data Science Portfolio
 
 ## Sentiment bar graph for BBI tweetts
 
-![](/images2/bbi%20sentiment%20bar%20graph.png)
+![](https://github.com/chrisliti/ChrisMbeva_Portfolio/blob/main/images2/bbi%20sentiment%20bar%20graph.png)
 
 ## BBI tweets wordcloud
 
-![](/images2/bbi%20word%20cloud%202.png)
+![](https://github.com/chrisliti/ChrisMbeva_Portfolio/blob/main/images2/bbi%20word%20cloud%202.png)
 
 
