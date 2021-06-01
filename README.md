@@ -13,4 +13,6 @@ My Data Science Portfolio
 - **Programming Language** : R
 - **Data Science Task** : Natural Language Processing (NLP)
 
+![](https://github.com/chrisliti/ChrisMbeva_Portfolio/blob/main/images2/bbi%20word%20cloud%202.png)
+
 
