@@ -11,6 +11,7 @@ My Data Science Portfolio
 
 - **Programming Language** : Python
 - **Data Science Task** : Recommendation Engine
+- **Data Set** : Movie Lens
 - **Code Link** : [jupyter notebook](https://github.com/chrisliti/Movie-Recommender-Engine/blob/master/Movie%20Recommender%20Engine%20June%202021.ipynb)
 
 ## Distribution of average ratings for movies
