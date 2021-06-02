@@ -7,6 +7,7 @@ My Data Science Portfolio
 * Movie recommendations are based on knowledge of user preferences.
 * Users rate a movie on a scale of 1-5.
 * User ratings are correlated with other movie ratings.
+* Algorithm takes input of your favourite movie from catalogue and outputs 10 movies from the catalogue you may enjoy.
 
 - **Programming Language** : Python
 - **Data Science Task** : Recommendation Engine
