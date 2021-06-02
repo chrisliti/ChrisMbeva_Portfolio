@@ -1,7 +1,7 @@
 # ChrisMbeva_Portfolio
 My Data Science Portfolio
 
-#[Project 1: Movie Recommender Engine] (https://github.com/chrisliti/Movie-Recommender-Engine/blob/master/Movie%20Recommender%20Engine%20June%202021.ipynb)
+# [Project 1: Movie Recommender Engine] (https://github.com/chrisliti/Movie-Recommender-Engine/blob/master/Movie%20Recommender%20Engine%20June%202021.ipynb)
 
 * Movie recommender engine based on collaborative filtering algorithm.
 * Movie recommendations are based on knowledge of user preferences.
