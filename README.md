@@ -18,8 +18,22 @@ My Data Science Portfolio
 ![](images2/movies%20ratings%20distribution.png)
 
 
+# [Project 2: Identifying risky loans](https://github.com/chrisliti/Identifying-Risky-Loans/blob/master/Identifying%20Loan%20Defaulters%20June%202021.ipynb)
 
-# [Project 2: Natural language Processing - WordCloud visualization and sentiment analysis of tweets.](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
+* Classification algorithm for identifying risky loans.
+* Input file is a csv file of 20 features with target feature denoted by 0 nad 1 with 1 being defaulters.
+* Machine learning algorithms utilized are logistic regression and random forest.
+* Logistic regression had 74% accuracy whereas random forest attained 75% accuracy.
+* Logistic regression had a better recall for risky loans than random forest.
+
+- **Programming Language** : Python
+- **Data Science Task** : Classification
+- **Data Set** : German credit data
+- ""Data Link and description** : [german credit data](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+- **Code Link** : [jupyter notebook](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
+
+
+# [Project 3: Natural language Processing - WordCloud visualization and sentiment analysis of tweets.](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
 
 * Takes input of key words for subject of interest.
 * Pulls most recent tweets (500)from twitter API.
