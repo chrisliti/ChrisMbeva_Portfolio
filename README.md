@@ -30,7 +30,7 @@ My Data Science Portfolio
 - **Data Science Task** : Classification
 - **Data Set** : German credit data
 - ""Data Link and description** : [german credit data](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
-- **Code Link** : [jupyter notebook](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
+- **Code Link** : [jupyter notebook](https://github.com/chrisliti/Identifying-Risky-Loans/blob/master/Identifying%20Loan%20Defaulters%20June%202021.ipynb)
 
 
 # [Project 3: Natural language Processing - WordCloud visualization and sentiment analysis of tweets.](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
