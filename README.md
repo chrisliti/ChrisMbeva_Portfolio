@@ -1,7 +1,23 @@
 # ChrisMbeva_Portfolio
 My Data Science Portfolio
 
-# [Project 1: Natural language Processing - WordCloud visualization and sentiment analysis of tweets.](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
+#[Project 1: Movie Recommender Engine] (https://github.com/chrisliti/Movie-Recommender-Engine/blob/master/Movie%20Recommender%20Engine%20June%202021.ipynb)
+
+* Movie recommender engine based on collaborative filtering algorithm.
+* Movie recommendations are based on knowledge of user preferences.
+* Users rate a movie on a scale of 1-5.
+* User ratings are correlated with other movie ratings.
+
+- **Programming Language** : Python
+- **Data Science Task** : Recommendation Engine
+- **Code Link** : [jupyter notebook](https://github.com/chrisliti/Movie-Recommender-Engine/blob/master/Movie%20Recommender%20Engine%20June%202021.ipynb)
+
+## Distribution of average ratings for movies
+![](images2/movies%20ratings%20distribution.png)
+
+
+
+# [Project 2: Natural language Processing - WordCloud visualization and sentiment analysis of tweets.](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
 
 * Takes input of key words for subject of interest.
 * Pulls most recent tweets (500)from twitter API.
