@@ -29,7 +29,7 @@ My Data Science Portfolio
 - **Programming Language** : Python
 - **Data Science Task** : Classification
 - **Data Set** : German credit data
-- ""Data Link and description** : [german credit data](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+- **Data Link and description** : [german credit data](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
 - **Code Link** : [jupyter notebook](https://github.com/chrisliti/Identifying-Risky-Loans/blob/master/Identifying%20Loan%20Defaulters%20June%202021.ipynb)
 
 
