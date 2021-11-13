@@ -1,8 +1,25 @@
 # ChrisMbeva_Portfolio
 My Data Science Portfolio
 
+# [Project 1: Plant Disease Prediction Web Application](https://plant-disease-prediction-app.herokuapp.com/)
 
-# [Project 1: Heart Disease Identification](https://heartdisease-prediction-ml-api.herokuapp.com/)
+* Plant disease prediction web application.
+* A farmer uploads a leaf image for a diseased plant to get a disease prediction.
+* The application is hosted on Heroku.
+* The front end is developed using streamlit.
+* Transfer learning using the VGG19 model.
+* Potential use case for application: Farmers can use this application to identify plant diseases minimizing reliance on experts.
+
+- **Programming Language** : Python
+- **Hosting Platform** : Heroku
+- **Data Science Task** : Deep Learning
+- **Data Set** : Kaggle Plant Diseases Dataset.
+- **Github Link** : [Github Repo](https://github.com/chrisliti/plant_disease_prediction)
+
+## Sample Image
+![](/images2/Image1.JPG)
+
+# [Project 2: Heart Disease Identification Web Application](https://heartdisease-prediction-ml-api.herokuapp.com/)
 
 * Heart disease prediction web application.
 * A medical practitioner inputs health measurements in a HTML form and gets prediction whether patient has heart disease or is healthy.
@@ -18,7 +35,7 @@ My Data Science Portfolio
 
 
 
-# [Project 2: Movie Recommender Engine](https://github.com/chrisliti/Movie-Recommender-Engine/blob/master/Movie%20Recommender%20Engine%20June%202021.ipynb)
+# [Project 3: Movie Recommender Engine](https://github.com/chrisliti/Movie-Recommender-Engine/blob/master/Movie%20Recommender%20Engine%20June%202021.ipynb)
 
 * Movie recommender engine based on collaborative filtering algorithm.
 * Movie recommendations are based on knowledge of user preferences.
@@ -35,7 +52,7 @@ My Data Science Portfolio
 ![](images2/movies%20ratings%20distribution.png)
 
 
-# [Project 3: Identifying risky loans](https://github.com/chrisliti/Identifying-Risky-Loans/blob/master/Identifying%20Loan%20Defaulters%20June%202021.ipynb)
+# [Project 4: Identifying risky loans](https://github.com/chrisliti/Identifying-Risky-Loans/blob/master/Identifying%20Loan%20Defaulters%20June%202021.ipynb)
 
 * Classification algorithm for identifying risky loans.
 * Input file is a csv file of 20 features with target feature denoted by 0 nad 1 with 1 being defaulters.
@@ -50,7 +67,7 @@ My Data Science Portfolio
 - **Code Link** : [jupyter notebook](https://github.com/chrisliti/Identifying-Risky-Loans/blob/master/Identifying%20Loan%20Defaulters%20June%202021.ipynb)
 
 
-# [Project 4: Natural language Processing - WordCloud visualization and sentiment analysis of tweets.](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
+# [Project 5: Natural language Processing - WordCloud visualization and sentiment analysis of tweets.](https://github.com/chrisliti/NLP-Twitter-Analysis/blob/master/NLP%20(Twitter%20Analysis)%20May%202021.ipynb)
 
 * Takes input of key words for subject of interest.
 * Pulls most recent tweets (500)from twitter API.
