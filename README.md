@@ -10,7 +10,7 @@ My Data Science Portfolio
 * Transfer learning using the VGG19 model.
 * Potential use case for application: Farmers can use this application to identify plant diseases minimizing reliance on experts.
 
-- **Web Application Link** : Test App Here(https://plant-disease-prediction-app.herokuapp.com/)
+- **Web Application Link** : [Test App Here](https://plant-disease-prediction-app.herokuapp.com/)
 - **Programming Language** : Python
 - **Hosting Platform** : Heroku
 - **Data Science Task** : Deep Learning
@@ -28,7 +28,7 @@ My Data Science Portfolio
 * Machine learning algorithm utilized in the backend is Random Forest Classifier.
 * Potential use case for application: A medical aid tool for medical practioners to diagnose heart disease.
 
-- **Web Application Link** : Test App Here(https://heartdisease-prediction-ml-api.herokuapp.com/
+- **Web Application Link** : [Test App Here](https://heartdisease-prediction-ml-api.herokuapp.com/
 - **Programming Language** : Python
 - **Hosting Platform** : Heroku
 - **Data Science Task** : Classification
