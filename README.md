@@ -17,7 +17,7 @@ My Data Science Portfolio
 - **Github Link** : [Github Repo](https://github.com/chrisliti/plant_disease_prediction)
 
 ## Sample Image
-![](/images2/Image1.JPG)
+![](/images2/Image1.JPG)  ![](/images2/Image2.JPG)
 
 # [Project 2: Heart Disease Identification Web Application](https://heartdisease-prediction-ml-api.herokuapp.com/)
 
